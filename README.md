@@ -2,7 +2,7 @@
 fundamentals of javascript
 
 
-avascript Bootcamp Refresher Tasks – 1
+javascript Bootcamp Refresher Tasks – 1
 Instructions:
 • Create .js files for each section and write your code for each
 section in the respective file. E.g
